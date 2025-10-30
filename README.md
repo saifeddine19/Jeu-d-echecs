@@ -19,6 +19,7 @@ Jeu d’échecs jouable entièrement dans le terminal, développé en Java avec 
 javac projet_echecs_java/*.java
 cd projet_echecs_java
 java JeuEchec
+```
 
 Suivez les instructions dans la console pour saisir les noms des joueurs et jouer à tour de rôle en entrant les coordonnées des pièces (ex: e2 → e4).
 Structure du projet
