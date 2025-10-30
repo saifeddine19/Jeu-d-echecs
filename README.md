@@ -24,20 +24,20 @@ java JeuEchec
 Suivez les instructions dans la console pour saisir les noms des joueurs et jouer à tour de rôle en entrant les coordonnées des pièces (ex: e2 → e4).
 Structure du projet
 
-    JeuEchec.java : Classe principale avec la boucle de jeu.
+JeuEchec.java : Classe principale avec la boucle de jeu.
 
-    Partie.java : Logique globale de la partie, gestion des joueurs et des coups.
+Partie.java : Logique globale de la partie, gestion des joueurs et des coups.
 
-    Echiquier.java : Grille 2D représentant l’échiquier et gestion des déplacements.
+Echiquier.java : Grille 2D représentant l’échiquier et gestion des déplacements.
 
-    Joueur.java : Représentation des joueurs et de leurs pièces.
+Joueur.java : Représentation des joueurs et de leurs pièces.
 
-    Case.java : Une case de l’échiquier (coordonnées et pièce).
+Case.java : Une case de l’échiquier (coordonnées et pièce).
 
-    Piece.java (abstraite) et Roi, Dame, Tour, Fou, Cavalier, Pion : Gestion des mouvements spécifiques à chaque pièce.
+Piece.java (abstraite) et Roi, Dame, Tour, Fou, Cavalier, Pion : Gestion des mouvements spécifiques à chaque pièce.
 
-Auteurs
+## Auteurs
 
-    Saif-eddine ALJANE
+Saif-eddine ALJANE
 
-    Ouways VELLORE SHERIEF
+Ouways VELLORE SHERIEF
